@@ -1,4 +1,4 @@
-# Hi, I'm Gershom Ibe 👋
+# Gershom Ibe 
 
 **Trader-turned-builder.** I co-design and build trading technology — most notably [QuantEdge Labs](https://quantedgelabs.net), an AI research terminal that fuses ML, quant, options flow, sentiment, and technical signals into tracked, graded trade setups.
 
